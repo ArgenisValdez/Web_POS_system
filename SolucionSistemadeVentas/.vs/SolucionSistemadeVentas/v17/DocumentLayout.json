@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28064E11-9863-4ED0-B52B-2080CC3E726D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.dal\\implementacion\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28064E11-9863-4ED0-B52B-2080CC3E726D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\implementacion\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5AB25A-2EC0-44D0-A7AD-5E42203A2DBB}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5AB25A-2EC0-44D0-A7AD-5E42203A2DBB}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:55:11.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:41:10.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 354,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
