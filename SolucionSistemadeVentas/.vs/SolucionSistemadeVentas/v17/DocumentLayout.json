@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28064E11-9863-4ED0-B52B-2080CC3E726D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.dal\\implementacion\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28064E11-9863-4ED0-B52B-2080CC3E726D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\implementacion\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A5AB25A-2EC0-44D0-A7AD-5E42203A2DBB}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A5AB25A-2EC0-44D0-A7AD-5E42203A2DBB}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dependencia.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.IOC\\Dependencia.cs",
               "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.IOC\\Dependencia.cs",
               "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T03:55:11.698Z",
+              "WhenOpened": "2024-12-18T04:19:47.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAowFYAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "CorreoService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T02:41:10.768Z",
+              "WhenOpened": "2024-12-18T03:48:01.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICorreoService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:45:57.62Z",
               "EditorCaption": ""
             }
           ]
