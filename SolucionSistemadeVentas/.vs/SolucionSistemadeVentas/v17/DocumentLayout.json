@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A5AB25A-2EC0-44D0-A7AD-5E42203A2DBB}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A5AB25A-2EC0-44D0-A7AD-5E42203A2DBB}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.bll\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D795D768-F4CA-43B8-A914-5898356F3430}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dependencia.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.IOC\\Dependencia.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.IOC\\Dependencia.cs",
-              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T04:19:47.332Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -49,22 +36,35 @@
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
               "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T03:48:01.97Z",
+              "WhenOpened": "2024-12-20T03:52:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:40:56.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ICorreoService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T03:45:57.62Z",
+              "WhenOpened": "2024-12-20T03:33:05.45Z",
               "EditorCaption": ""
             }
           ]

@@ -15,3 +15,4 @@ C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistem
 C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistemadeVentas\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
 C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistemadeVentas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistemadeVentas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaV.93BC7325.Up2Date
+C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistemadeVentas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.sourcelink.json
