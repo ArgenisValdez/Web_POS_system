@@ -3,7 +3,7 @@
     public class VMReporteVenta
     {
         public string? FechaRegistro { get; set; }
-        public string? NUmeroVenta { get; set; }
+        public string? NumeroVenta { get; set; }
         public string? TipoDocumento { get; set; }
         public string? DocumentoCliente { get; set; }
         public string? NombreCliente { get; set; }

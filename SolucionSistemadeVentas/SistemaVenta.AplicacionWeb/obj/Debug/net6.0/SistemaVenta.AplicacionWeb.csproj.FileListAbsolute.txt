@@ -254,3 +254,5 @@ C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistem
 C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistemadeVentas\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Firebase.Auth.dll
 C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistemadeVentas\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\Firebase.Storage.dll
 C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistemadeVentas\SistemaVenta.AplicacionWeb\obj\Debug\net6.0\SistemaVenta.AplicacionWeb.sourcelink.json
+C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistemadeVentas\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Admin\Desktop\Proyectos en Git\Sistema de ventas\Sistema\SolucionSistemadeVentas\SistemaVenta.AplicacionWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
