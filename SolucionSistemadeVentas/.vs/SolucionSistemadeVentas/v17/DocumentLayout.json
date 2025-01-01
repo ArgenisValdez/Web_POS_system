@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86FA1A63-0AFD-406C-9B49-6E8E83A5D425}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FA1A63-0AFD-406C-9B49-6E8E83A5D425}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86FA1A63-0AFD-406C-9B49-6E8E83A5D425}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.aplicacionweb\\utilidades\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FA1A63-0AFD-406C-9B49-6E8E83A5D425}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\utilidades\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86FA1A63-0AFD-406C-9B49-6E8E83A5D425}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\admin\\desktop\\proyectos en git\\sistema de ventas\\sistema\\solucionsistemadeventas\\sistemaventa.aplicacionweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FA1A63-0AFD-406C-9B49-6E8E83A5D425}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.AplicacionWeb\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.AplicacionWeb\\Program.cs",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T04:04:22.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.AplicacionWeb\\Utilidades\\Automapper\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Utilidades\\Automapper\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Sistema de ventas\\Sistema\\SolucionSistemadeVentas\\SistemaVenta.AplicacionWeb\\Utilidades\\Automapper\\AutoMapperProfile.cs",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Utilidades\\Automapper\\AutoMapperProfile.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwOQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:52:19.238Z",
+              "WhenOpened": "2024-12-31T00:49:28.682Z",
               "EditorCaption": ""
             }
           ]
